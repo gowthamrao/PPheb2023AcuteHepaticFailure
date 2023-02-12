@@ -1,0 +1,2320 @@
+{
+  "ExpressionLimit": {"Type": "All"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 180
+  },
+  "CensorWindow": {},
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36714559,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "719848005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Disorder caused by alcohol",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4042860,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "228273003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Finding relating to alcohol drinking behavior",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435140,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "67426006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Toxic effect of alcohol",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46269816,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1082601000119104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ascites due to alcoholic cirrhosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37311131,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "827094004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Alcohol detoxification",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4058714,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "161466001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "H/O: alcoholism",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46269817,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1082611000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ascites due to alcoholic hepatitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 195300,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "2043009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Alcoholic gastritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 318773,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "83521008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Dilated cardiomyopathy secondary to alcohol",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37016176,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "135761000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral degeneration due to alcoholism",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45757783,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "40241000119109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Gastric hemorrhage due to alcoholic gastritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44788725,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "198421000000108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hazardous alcohol use",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40484946,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "442766007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "High alcohol level in blood",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3661461,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "836464003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Adverse reaction to alcohol",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44788726,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "198431000000105",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Harmful alcohol use",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Disorder caused by alcohol",
+      "id": 2
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4291005,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "3738000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Viral hepatitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 196029,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "40946000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hepatic coma due to viral hepatitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43021368,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "473117004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "History of viral hepatitis",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4093637,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "187260009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Sequelae of viral hepatitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Viral hepatitis",
+      "id": 5
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4340390,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "235886005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic hepatic failure",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46269836,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1085091000119108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hepatic coma due to chronic hepatic failure",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37396401,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "716203000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Decompensated cirrhosis of liver",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4331292,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "22508003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hepatic failure due to a procedure",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45769564,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "708248004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "End stage liver disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Chronic Hepatic Failure",
+      "id": 6
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4064161,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "19943007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cirrhosis of liver",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 196463,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "420054005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Alcoholic cirrhosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46269816,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1082601000119104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ascites due to alcoholic cirrhosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Liver Cirrhosis",
+      "id": 7
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4267417,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "62484002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hepatic fibrosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4058695,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197362001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Toxic liver disease with fibrosis and cirrhosis of liver",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Liver Fibrosis",
+      "id": 8
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4026131,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197315008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Non-alcoholic fatty liver",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4059290,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197321007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Steatosis of liver",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Steatosis of liver, not including non-alcoholic",
+      "id": 10
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4026131,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197315008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Non-alcoholic fatty liver",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40484532,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "442685003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Nonalcoholic steatohepatitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Non-Alcoholic Fatty Liver Disease",
+      "id": 11
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4326594,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "75183008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Abnormal liver function",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4058725,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "161535005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "H/O: liver disease",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4113557,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "300338006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Liver problem",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 194984,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "235856003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Disease of liver",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Other Liver problems",
+      "id": 12
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4112853,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "254837009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of breast",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4162276,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "372244006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant melanoma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40493428,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "449096009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant neoplasm of respiratory system",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43021272,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "473067009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "History of malignant neoplasm of liver",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4101758,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "25370001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hepatocellular carcinoma",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435506,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20376005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Benign neoplastic disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4180793,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "363418001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of pancreas",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4181343,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "363402007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of esophagus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 196653,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "363518003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant tumor of kidney",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43021272,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "473067009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "History of malignant neoplasm of liver",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46273375,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "73761000119105",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "History of malignant neoplasm of pancreas",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4178769,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "429410000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "History of malignant neoplasm of esophagus",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4058705,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "161432005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "H/O Malignant melanoma",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4187205,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "415082004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "History of malignant neoplasm of lung",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4324190,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "429087003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "History of malignant neoplasm of breast",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Malignancies that spread to liver (breast, esophageal, stomach, pancreatic, lung, kidney, melanoma, primary malignancy of liver)",
+      "id": 15
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4340383,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "235875008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Alcoholic hepatitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 201343,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "9953008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute alcoholic liver disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46269835,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1085021000119106",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hepatic ascites due to chronic alcoholic hepatitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Alcoholic hepatitis",
+      "id": 16
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4229262,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "88518009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Wilson's disease",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Wilsons disease",
+      "id": 17
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 200762,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "408335007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Autoimmune hepatitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Autoimmune Hepatitis",
+      "id": 18
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4163735,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "399187006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hemochromatosis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Hemochromatosis",
+      "id": 19
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4135822,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "31712002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Primary biliary cholangitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Primary Biliary Cholangitis",
+      "id": 20
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 200528,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "389026000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Ascites",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Ascites",
+      "id": 22
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4055224,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197354009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Toxic liver disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4055223,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197352008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Toxic hepatitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Toxic Liver Disease",
+      "id": 23
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 192680,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "34742003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Portal hypertension",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46270558,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "59701000119109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "History of portal hypertension",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Portal Hypertension",
+      "id": 24
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42537742,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "737297006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Transplanted liver present",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Liver Transplant",
+      "id": 25
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4130518,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "126851005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Neoplasm of liver",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Neoplasm of liver",
+      "id": 26
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4143915,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "33688009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cholestasis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4058694,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197355005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Toxic liver disease with cholestasis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Cholestasis",
+      "id": 27
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4337543,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "87248009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hepatic necrosis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Hepatic Necrosis",
+      "id": 30
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4212540,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "328383001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chronic liver disease",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Chronic Liver Disease",
+      "id": 31
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4055224,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197354009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Toxic liver disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4245975,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "59927004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hepatic failure",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4340390,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "235886005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic hepatic failure",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 194990,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128241005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Inflammatory disease of liver",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4058696,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197364000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Central hemorrhagic necrosis of liver",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4055225,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197360009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Toxic liver disease with chronic lobular hepatitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4059299,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197361008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Toxic liver disease with chronic active hepatitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4059298,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197359004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Toxic liver disease with chronic persistent hepatitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4058695,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "197362001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Toxic liver disease with fibrosis and cirrhosis of liver",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4029488,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "13920009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hepatic encephalopathy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4337543,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "87248009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hepatic necrosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3655440,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "863957008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic necrosis of liver",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4239091,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "91162000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Necrosis of liver of pregnancy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42599120,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "346721000009103",
+            "VOCABULARY_ID": "SNOMED Veterinary",
+            "CONCEPT_NAME": "Hepatic necrosis in animals",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 194417,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "17890003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hepatic infarction",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Acute hepatic injury",
+      "id": 32
+    }
+  ],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "EndDate",
+    "Offset": 90
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 6
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Chronic Hepatic Failure"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 5
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Viral Hepatitis"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 7
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Liver Cirrhosis"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 8
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Liver Fibrosis"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 23
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Toxic Liver Disease (7d)"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 30
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Hepatic Necrosis (7d)"
+    },
+    {
+      "expression": {
+        "CriteriaList": [
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"ConditionOccurrence": {
+              "ConditionTypeExclude": false,
+              "CodesetId": 2
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"Observation": {
+              "ObservationTypeExclude": false,
+              "CodesetId": 2
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          }
+        ],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Alcohol use disorder"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 16
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Alcoholic Hepatitis"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 10
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Alcoholic Fatty Liver"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 15
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Malignancies that spread to liver (breast, esophageal, stomach, pancreatic, lung, kidney, melanoma)"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 6
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Chronic Hepatic Failure"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 31
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Other Chronic Liver Disease"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 22
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Ascites (7d)"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 24
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Portal Hypertension (7d)"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 25
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "History of Liver Transplant"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 27
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Cholestasis (7d)"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 11
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Non-Alcoholic Fatty Liver Disease"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 18
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Autoimmune Hepatitis"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 20
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Primary Biliary Cholangitis"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 19
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": "DOMAIN_CONCEPT",
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Hemochromatosis"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 17
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Wilsons Disease"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 26
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Neoplasm of liver"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 12
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Other liver problems entry event criteria",
+      "description": "Note: this is a catch all"
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"ConditionOccurrence": {
+      "ConditionTypeExclude": false,
+      "CodesetId": 32
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

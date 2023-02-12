@@ -1,0 +1,12 @@
+atlasId,cohortId,id,cohortName
+67,67,67,"[W] Hepatic failure with inpatient admission (3Pe, 30Era)"
+323,323,323,[PhePheb2023] Acute Liver Failure basic
+294,294,294,"[P] Acute Hepatic Injury with no pre-existing liver disease (180Pe, 180Era)"
+265,265,265,"[P] Drug Induced Acute Hepatic Failure (365Pe, 365Era)"
+292,292,292,"[P] Hepatic Failure (365Pe, 365Era)"
+264,264,264,"[P] Acute Hepatic Failure in persons with liver disease (365Pe, 365Era)"
+293,293,293,"[P] Acute Hepatic Injury with no chronic hepatic failure (180Pe, 180Era)"
+295,295,295,"[P] Acute Hepatic Failure in persons with no pre-existing liver disease (365Pe, 365Era)"
+321,321,321,[PhePheb2023] Acute Liver Failure broad and precise no cause
+318,318,318,"[P] All events of Acute Hepatic Failure in persons without chronic hepatic failure (90Pe, 365Era)"
+322,322,322,[PhePheb2023] Acute Liver Failure broad and precise
